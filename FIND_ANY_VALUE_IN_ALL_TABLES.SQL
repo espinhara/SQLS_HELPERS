@@ -1,4 +1,4 @@
-DECLARE @SearchStr nvarchar(100) = '#Any Value You Wanted To Find#'
+DECLARE @SearchStr nvarchar(100) = '#Any value you would like to find#'
 
 CREATE TABLE #Results (ColumnName nvarchar(370), ColumnValue nvarchar(3630))
  
